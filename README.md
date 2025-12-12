@@ -17,5 +17,4 @@ This project analyzes demographic, medical, and condition-based factors that inf
 ```text
 data/
 notebooks/
-src/
 docs/
