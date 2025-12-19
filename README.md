@@ -1,6 +1,6 @@
 # 🦠 COVID-19 Mortality Risk Analysis 
 
-This project analyzes demographic, medical, and condition-based factors that influenced mortality during the early months of the COVID-19 pandemic. The goal is to identify **which variables had the strongest relationship with fatal outcomes** and determine whether **COVID-19 became the leading cause of death during that period.**
+A large-scale analysis of COVID-19 mortality risk factors using Python and epidemiological data from Mexico.This project analyzes demographic, medical, and condition-based factors that influenced mortality during the early months of the COVID-19 pandemic. The goal is to identify **which variables had the strongest relationship with fatal outcomes** and determine whether **COVID-19 became the leading cause of death during that period.**
 
 ---
 
