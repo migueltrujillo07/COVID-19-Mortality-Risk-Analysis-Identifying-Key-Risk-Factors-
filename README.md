@@ -48,13 +48,13 @@ Depending on availability and quality of cause-of-death information, we compare:
 
 ## Project Outputs
 
-- 📄 [Exploratory Data Analysis Notebooks](notebooks/)
+- 📄 [Exploratory Data Analysis Notebooks](notebook/)
 - 📊 [Key Figures](reports/figures/)
 - 📝 [Final Conclusions](reports/conclusions.md)
 ---
 ## Repository Structure
 ```text
-covid19-eda-risk-factors/
+COVID-19-Mortality-Risk-Analysis-Identifying-Key-Risk-Factors/
 │
 ├── data/
 │   ├── raw/                 # Original dataset (not modified)
