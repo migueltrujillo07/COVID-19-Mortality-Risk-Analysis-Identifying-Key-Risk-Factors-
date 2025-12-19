@@ -61,11 +61,6 @@ covid19-eda-risk-factors/
 │   ├── 04_risk_factor_analysis.ipynb
 │   └── 05_conclusions.ipynb
 │
-├── src/
-│   ├── data_cleaning.py
-│   ├── feature_engineering.py
-│   └── visualization.py
-│
 ├── reports/
 │   ├── figures/             # Exported plots for README/LinkedIn
 │   └── summary_report.md    # Optional executive summary
@@ -74,10 +69,16 @@ covid19-eda-risk-factors/
 ├── README.md
 └── LICENSE
 
+## Project Outputs
+
+- 📄 [Exploratory Data Analysis Notebooks](notebooks/)
+- 📊 [Key Figures](reports/figures/)
+- 📝 [Final Conclusions](reports/conclusions.md)
+
 
 ## 📂 Project Structure
 
 ```text
 data/
 notebooks/
-docs/
+reports/
